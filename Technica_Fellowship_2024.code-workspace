@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../2024_Fellowship"
+		},
+		{
+			"path": "../Milkii_Savya"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "2024_Fellowship"
+	}
+}
